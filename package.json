@@ -12,6 +12,7 @@
     "API",
     "OOP"
   ],
+  "repository": "https://github.com/boomee-pro/express-oop",
   "author": "Massimo Meert <pro@masmeert.com>",
   "license": "MIT",
   "devDependencies": {
