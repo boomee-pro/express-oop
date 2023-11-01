@@ -1,0 +1,26 @@
+{
+  "private": false,
+  "name": "@boomee/api",
+  "version": "0.0.1",
+  "description": "OOP tools for Express APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "API",
+    "OOP"
+  ],
+  "author": "Massimo Meert <pro@masmeert.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "passport": "^0.6.0",
+    "passport-oauth2": "^1.7.0"
+  }
+}
